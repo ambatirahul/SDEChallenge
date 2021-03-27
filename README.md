@@ -30,3 +30,11 @@ We need to provide Google Analytic like services to our customers. Please provid
 3. Provide metrics to customers with at most one hour delay.
 4. Run with minimum downtime.
 5. Have the ability to reprocess historical data in case of bugs in the processing logic.
+
+---
+
+[Google Analytics System Design - Readme](GoogleAnalyticsSystemDesign/GA_SYSTEM_DESIGN.md)
+
+GoogleAnalyticsSystemDesign folder contains system design documentation.
+
+---
