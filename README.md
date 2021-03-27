@@ -12,7 +12,9 @@ Write an interface for a data structure that can provide the moving average of t
 
 ---
 
-[Coding Solution](PaytmCoding/CODING_CHALLENGE.md)
+[Coding Solution - Readme](PaytmCoding/CODING_CHALLENGE.md)
+
+PaytmCoding folder has the source code.
 
 ---
 

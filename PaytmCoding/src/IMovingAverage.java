@@ -1,7 +1,7 @@
 import java.util.List;
 
 /**
- * 
+ * Interface for moving average.
  *
  * @param <T>
  */

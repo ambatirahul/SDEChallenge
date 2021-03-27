@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Queue implementation of {@link IMovingAverage}
+ * List implementation of {@link IMovingAverage}
  * 
  * @param <T>
  */
